@@ -34,7 +34,7 @@ def send_intercepted_message(difficult):
     time.sleep(0.5 * difficult)
     os.system('cls||clear')
 
-    return input('')
+    return input('').upper()
 
 
 def verify_intercepted_message(intercepted_message, sent_message):

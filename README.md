@@ -2,7 +2,7 @@
 
 ## About the game
 
-This program is a reproduction of the game "The Vital Message," published in the book "Computer Battlegames" by Usborne Computer Games in 1982. 
+This program is a reproduction of the game "The Vital Message", published in the book "Computer Battlegames" by Usborne Computer Games in 1982. 
 
 I became aware of this book and the game through the YouTube channel of the creator Kari Lawler (https://www.youtube.com/@karilawler), who programmed this game in the following video: https://www.youtube.com/watch?v=3kdM9wyglnw.
 
