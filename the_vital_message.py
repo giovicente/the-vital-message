@@ -36,6 +36,7 @@ def send_intercepted_message(difficult):
 
     return input('')
 
+
 def verify_intercepted_message(intercepted_message, sent_message):
     if intercepted_message == sent_message:
         print('MESSAGE CORRECT'
