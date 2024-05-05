@@ -15,7 +15,7 @@ def set_difficult():
                                   '\n'))
             if difficult >= MINIMUM_DIFFICULT and difficult <= MAXIMUM_DIFFICULT:
                 valid_input = True
-        except(ValueError):
+        except ValueError:
             print('ONLY NUMBERS ALLOWED')
 
     return difficult
